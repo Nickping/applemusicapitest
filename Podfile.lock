@@ -1,0 +1,16 @@
+PODS:
+  - JSONWebToken (2.2.0)
+
+DEPENDENCIES:
+  - JSONWebToken
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - JSONWebToken
+
+SPEC CHECKSUMS:
+  JSONWebToken: 6fae32489632658d563dd6952a5c34020ea813e4
+
+PODFILE CHECKSUM: c4c759cb10395752a1feeb47348050cdb0f20b6c
+
+COCOAPODS: 1.5.3
